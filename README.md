@@ -17,5 +17,5 @@ Username: "bramiothub.azure-devices.net/esp8266/?api-version=2021-04-12" (must b
 Pssword: "SharedAccessSignature sr=bramiothub.azure-devices.net%2Fdevices%2Fesp8266&sig=VMXXXXXXXXX%2BlboIHer%2B0Tp7E%3D&se=1001653269864"
 wifi ssid: "CALIPH"
 wifi pass: "topsecret"
-test message to be ingested : haloooo
+test message to be ingested : Bram Is OK
 </pre>
