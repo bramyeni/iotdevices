@@ -4,8 +4,8 @@
 <pre>
 Module: ESP32-WROOVER-IB (Genuine)
 Board: Generic board chinese
-How to get the module : <a href="https://www.aliexpress.com/item/33003556530.html?spm=a2g0o.order_list.0.0.18751802ZgZVNP">ESP module</a>
-How to get the board : https://www.aliexpress.com/item/1005001315677299.html?spm=a2g0o.order_list.0.0.18751802ZgZVNP
+How to get the module : <a href="https://www.aliexpress.com/item/33003556530.html?spm=a2g0o.order_list.0.0.18751802ZgZVNP">ESP32-WROOVER-IB module</a>
+How to get the board : <a href="https://www.aliexpress.com/item/1005001315677299.html?spm=a2g0o.order_list.0.0.18751802ZgZVNP">ESP32 board</a>
 Rework station and flux need to be used to solder the module into the board
 IDE : Arduino IDE
 Arduino board manager : install ESP32 WROOVER (all version)
