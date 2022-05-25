@@ -10,8 +10,8 @@
 #include <PubSubClient.h>
 
 
-const char* ssid     = "KHILAFAH";     // your network SSID (name of wifi network)
-const char* password = "b1sm1LL4h"; // your network password
+const char* ssid     = "CALIPH";     // your network SSID (name of wifi network)
+const char* password = "topsecret"; // your network password
 
 
 
@@ -27,7 +27,7 @@ const char* topic = "devices/esp8266/messages/events/";
 const char* MQTTUsername="bramiothub.azure-devices.net/esp8266/?api-version=2021-04-12";
 //Get the password from sas using the following command in azure-cli
 //az iot hub generate-sas-token -d esp8266 -n bramiothub 
-const char* MQTTPass="SharedAccessSignature sr=bramiothub.azure-devices.net%2Fdevices%2Fesp8266&sig=VMs2Z8GBZSsnco1xlobQhdnSnrv5v%2BlboIHer%2B0Tp7E%3D&se=1001653269864";
+const char* MQTTPass="SharedAccessSignature sr=bramiothub.azure-devices.net%2Fdevices%2Fesp8266&sig=VMXXXXXXXXX%2BlboIHer%2B0Tp7E%3D&se=1001653269864";
 
 
 
