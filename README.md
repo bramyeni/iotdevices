@@ -13,7 +13,7 @@ Azure iothub: bramiothub
 Azure iothub hostname: bramiothub.azure-devices.net
 device_id : esp8266 (this an iot device which can be created on Azure portal or using azure-cli)
 iothub topic: devices/esp8266/messages/events/
-Username: "bramiothub.azure-devices.net/esp8266/?api-version=2021-04-12" <pre>(must be in the format: {iothubhostname}/{device_id}/?api-version=2021-04-12)
+Username: "bramiothub.azure-devices.net/esp8266/?api-version=2021-04-12" (must be in the format: {iothubhostname}/{device_id}/?api-version=2021-04-12)
 Pssword: "SharedAccessSignature sr=bramiothub.azure-devices.net%2Fdevices%2Fesp8266&sig=VMXXXXXXXXX%2BlboIHer%2B0Tp7E%3D&se=1001653269864"
 wifi ssid: "CALIPH"
 wifi pass: "topsecret"
